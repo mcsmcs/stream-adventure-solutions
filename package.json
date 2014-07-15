@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure-solutions",
+  "version": "0.0.0",
+  "description": "stream-adventure-solutions ==========================",
+  "main": "1_beepboop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mcsmcs@github.com/mcsmcs/stream-adventure-solutions.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mcsmcs/stream-adventure-solutions/issues"
+  },
+  "dependencies": {
+    "through": "~2.3.4",
+    "split": "~0.3.0",
+    "concat-stream": "~1.4.6"
+  }
+}
