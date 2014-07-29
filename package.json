@@ -22,6 +22,7 @@
     "request": "~2.37.0",
     "websocket-stream": "~0.6.0",
     "trumpet": "~1.6.4",
-    "duplexer": "~0.1.1"
+    "duplexer": "~0.1.1",
+    "stream-combiner": "~0.2.1"
   }
 }
